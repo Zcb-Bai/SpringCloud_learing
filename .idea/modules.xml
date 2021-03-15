@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/02.eureka-client/02.eureka-client.iml" filepath="$PROJECT_DIR$/02.eureka-client/02.eureka-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/03.eureka-security-server/03.eureka-security-server.iml" filepath="$PROJECT_DIR$/03.eureka-security-server/03.eureka-security-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/04.user-service/04.user-service.iml" filepath="$PROJECT_DIR$/04.user-service/04.user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05.ribbon-service/05.ribbon-service.iml" filepath="$PROJECT_DIR$/05.ribbon-service/05.ribbon-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringCloud_learing.iml" filepath="$PROJECT_DIR$/.idea/SpringCloud_learing.iml" />
     </modules>
   </component>
