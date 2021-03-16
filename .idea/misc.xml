@@ -9,6 +9,8 @@
         <option value="$PROJECT_DIR$/04.user-service/pom.xml" />
         <option value="$PROJECT_DIR$/05.ribbon-service/pom.xml" />
         <option value="$PROJECT_DIR$/06.hystrix-service/pom.xml" />
+        <option value="$PROJECT_DIR$/07.hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/08.turbine-service/pom.xml" />
       </list>
     </option>
   </component>

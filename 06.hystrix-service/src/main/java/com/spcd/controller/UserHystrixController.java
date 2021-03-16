@@ -28,6 +28,11 @@ public class UserHystrixController {
         return userService.getUser(id);
     }
 
+    @GetMapping("/testCommand/{id}")
+    public CommonResult testCommand(@PathVariable Long id) {
+        return userService.getUserCommand(id);
+    }
+
 
     @GetMapping("/tesException/{id}")
     public CommonResult tesException(@PathVariable Long id) {

@@ -8,6 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/04.user-service/04.user-service.iml" filepath="$PROJECT_DIR$/04.user-service/04.user-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/05.ribbon-service/05.ribbon-service.iml" filepath="$PROJECT_DIR$/05.ribbon-service/05.ribbon-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/06.hystrix-service/06.hystrix-service.iml" filepath="$PROJECT_DIR$/06.hystrix-service/06.hystrix-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07.hystrix-dashboard/07.hystrix-dashboard.iml" filepath="$PROJECT_DIR$/07.hystrix-dashboard/07.hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08.turbine-service/08.turbine-service.iml" filepath="$PROJECT_DIR$/08.turbine-service/08.turbine-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringCloud_learing.iml" filepath="$PROJECT_DIR$/.idea/SpringCloud_learing.iml" />
     </modules>
   </component>
