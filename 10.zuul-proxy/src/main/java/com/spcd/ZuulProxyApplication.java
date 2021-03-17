@@ -18,4 +18,5 @@ public class ZuulProxyApplication {
     public static void main(String[] args) {
         SpringApplication.run(ZuulProxyApplication.class, args);
     }
+
 }
