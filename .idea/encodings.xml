@@ -12,5 +12,7 @@
     <file url="file://$PROJECT_DIR$/08.turbine-service/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/09.feign-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/10.zuul-proxy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/11.config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/12.config-client/src/main/java" charset="UTF-8" />
   </component>
 </project>

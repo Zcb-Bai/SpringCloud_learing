@@ -13,6 +13,8 @@
         <option value="$PROJECT_DIR$/08.turbine-service/pom.xml" />
         <option value="$PROJECT_DIR$/09.feign-service/pom.xml" />
         <option value="$PROJECT_DIR$/10.zuul-proxy/pom.xml" />
+        <option value="$PROJECT_DIR$/11.config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/12.config-client/pom.xml" />
       </list>
     </option>
   </component>
