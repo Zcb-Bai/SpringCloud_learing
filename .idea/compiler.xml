@@ -10,6 +10,8 @@
         <module name="08.turbine-service" />
         <module name="07.hystrix-dashboard" />
         <module name="11.config-server" />
+        <module name="13.consul-user-service" />
+        <module name="14.consul-ribbon-service" />
         <module name="05.ribbon-service" />
         <module name="01.eureka-server" />
         <module name="09.feign-service" />
@@ -37,6 +39,8 @@
       <module name="12.config-client" target="1.8" />
       <module name="12.config-client1" target="1.8" />
       <module name="12.config-server" target="1.5" />
+      <module name="13.consul-user-service" target="1.8" />
+      <module name="14.consul-ribbon-service" target="1.8" />
       <module name="config-client" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -55,6 +59,8 @@
       <module name="11.config-server" options="-parameters" />
       <module name="12.config-client" options="-parameters" />
       <module name="12.config-client1" options="-parameters" />
+      <module name="13.consul-user-service" options="-parameters" />
+      <module name="14.consul-ribbon-service" options="-parameters" />
       <module name="config-client" options="-parameters" />
     </option>
   </component>

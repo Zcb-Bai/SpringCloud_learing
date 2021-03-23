@@ -15,6 +15,8 @@
         <option value="$PROJECT_DIR$/10.zuul-proxy/pom.xml" />
         <option value="$PROJECT_DIR$/11.config-server/pom.xml" />
         <option value="$PROJECT_DIR$/12.config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/13.consul-user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/14.consul-ribbon-service/pom.xml" />
       </list>
     </option>
   </component>
