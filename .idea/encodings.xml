@@ -16,5 +16,9 @@
     <file url="file://$PROJECT_DIR$/12.config-client/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/13.consul-user-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/14.consul-ribbon-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/15.consul-config-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/15.consul-config-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/16.api-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/17.oauth2-server/src/main/java" charset="UTF-8" />
   </component>
 </project>

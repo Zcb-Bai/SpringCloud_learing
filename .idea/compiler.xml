@@ -11,6 +11,7 @@
         <module name="07.hystrix-dashboard" />
         <module name="11.config-server" />
         <module name="13.consul-user-service" />
+        <module name="16.api-gateway" />
         <module name="14.consul-ribbon-service" />
         <module name="05.ribbon-service" />
         <module name="01.eureka-server" />
@@ -19,9 +20,11 @@
         <module name="02.eureka-client" />
         <module name="06.hystrix-service" />
         <module name="10.zuul-proxy" />
+        <module name="17.oauth2-server" />
         <module name="12.config-client1" />
         <module name="12.config-client" />
         <module name="12.config-server" />
+        <module name="15.consul-config-client" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -41,6 +44,9 @@
       <module name="12.config-server" target="1.5" />
       <module name="13.consul-user-service" target="1.8" />
       <module name="14.consul-ribbon-service" target="1.8" />
+      <module name="15.consul-config-client" target="1.8" />
+      <module name="16.api-gateway" target="1.8" />
+      <module name="17.oauth2-server" target="1.8" />
       <module name="config-client" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -61,6 +67,9 @@
       <module name="12.config-client1" options="-parameters" />
       <module name="13.consul-user-service" options="-parameters" />
       <module name="14.consul-ribbon-service" options="-parameters" />
+      <module name="15.consul-config-client" options="-parameters" />
+      <module name="16.api-gateway" options="-parameters" />
+      <module name="17.oauth2-server" options="-parameters" />
       <module name="config-client" options="-parameters" />
     </option>
   </component>

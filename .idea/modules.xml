@@ -16,6 +16,9 @@
       <module fileurl="file://$PROJECT_DIR$/12.config-client/12.config-client.iml" filepath="$PROJECT_DIR$/12.config-client/12.config-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/13.consul-user-service/13.consul-user-service.iml" filepath="$PROJECT_DIR$/13.consul-user-service/13.consul-user-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/14.consul-ribbon-service/14.consul-ribbon-service.iml" filepath="$PROJECT_DIR$/14.consul-ribbon-service/14.consul-ribbon-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15.consul-config-client/15.consul-config-client.iml" filepath="$PROJECT_DIR$/15.consul-config-client/15.consul-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16.api-gateway/16.api-gateway.iml" filepath="$PROJECT_DIR$/16.api-gateway/16.api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17.oauth2-server/17.oauth2-server.iml" filepath="$PROJECT_DIR$/17.oauth2-server/17.oauth2-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringCloud_learing.iml" filepath="$PROJECT_DIR$/.idea/SpringCloud_learing.iml" />
     </modules>
   </component>
